@@ -3,10 +3,95 @@ body {
 }
 .pics
     {
-        width:5%;
-        height:5%;
+ width:50%;
+ height:50%;
+ position: relative;
+ box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+ padding: 10px;
+ background: gold;
+ height: 25%;
+ text-align: center;
     }
+ .ps
+ {
+ position: relative;
+ box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+ padding: 10px;
+ background: gold;
+ height: 25%;
+ text-align: center;
+ margin:auto;
+ }
+ 
 
 p {
-    color:white;
+ font-family: "Arial";
+ font-size: 30px;
+ color: gold;
+ padding: 20px;
+ border: ridge 5px black;
+ margin: 50px auto 50px auto;
+background-color:black;
 }
+.m {
+  font-size: 40px;
+ color: gold;
+ position: relative;
+ box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+ padding: 10px;
+ background:black;
+ height: 25%;
+ text-align: center;
+ margin-bottom: 50px;
+}
+.c{
+ font-size: 60px;
+ color: gold;
+ position: relative;
+ box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+ padding: 1px;
+ background:black;
+ text-align: center;
+    
+}
+.a {
+ font-size: 60px;
+ color: black;
+ position: relative;
+ box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+ padding: 10px;
+ background: gold;
+ height: 25%;
+ text-align: center;
+}
+.b {
+ font-size: 40px;
+ color: black;
+ position: relative;
+ box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+ padding: 1px;
+ background-color: gold;
+}
+    
+
+button {
+ background-color: black;
+ border: none;
+ color: gold;
+ padding: 15px 32px;
+ text-align: center;
+ font-size: 16px;
+ margin: 4px 10px;
+ border-radius: 20px;
+ cursor: pointer;
+ margin-bottom: 7%;
+}
+
+body {
+    color: White;
+}
+
+h1 {
+    color:GOld;
+}
+

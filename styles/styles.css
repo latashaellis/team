@@ -4,7 +4,7 @@ body {
  background-size: cover;
 }
 .pics
-    {
+ {
  width:50%;
  height:50%;
  position: relative;
@@ -13,13 +13,14 @@ body {
  background: gold;
  height: 25%;
  text-align: center;
-    }
+ margin:auto;
+ }
  .ps
  {
  box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
  padding: 10px;
  background: gold;
- height: 40%;
+ height: 60%;
  width:20%;
  }
  
@@ -92,7 +93,8 @@ body {
 }
 
 h1 {
-    color:GOld;
+    color:gold;
+    text-align:center;
 }
 
 .mission
@@ -107,8 +109,10 @@ h1 {
  background-color: black;
  color: gold;
  width: 50%;
- height:75;
- float:right;
+ height:75%;
+ margin-left:250px;
+ padding:200px;
 }
+
 
 

@@ -113,6 +113,45 @@ h1 {
  margin-left:250px;
  padding:200px;
 }
+.images
+ {
+  width:50%;
+ height:70%;
+ position: relative;
+ box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+ padding: 10px;
+ background: gold;
+ text-align: center;
+ margin:auto;
+ }
+ .e
+ {
+ font-size: 40px;
+ color: gold;
+ position: relative;
+ box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+ padding: 1px;
+ background-color: black;
+}
 
 
 
+ol 
+{
+font-family: "Arial";
+font-size: 30px;
+color: gold;
+padding: 20px;
+border: ridge 5px black;
+margin: 50px auto 50px auto;
+background-color:black;
+}
+.ubisoft{
+    position: absolute;
+    bottom: -929;
+    left: 700;
+    width: 1250px;
+}
+
+ 
+}

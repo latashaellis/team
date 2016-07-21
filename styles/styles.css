@@ -10,7 +10,7 @@ nav {
 
 .pics {
  width: 50%;
- height: 50%;
+ /*height: 50%;*/
  position: relative;
  box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
  padding: 10px;
@@ -119,7 +119,7 @@ h1 {
 
 .images {
  width:50%;
- height:70%;
+ /*height:70%;*/
  position: relative;
  box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
  padding: 10px;
@@ -155,35 +155,36 @@ background-color:black;
 
 .pot {
  width: 25%;
- height: 50%;
+ height: 25%;
  position: relative;
  box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
  padding: 10px;
  background: gold;
  margin: auto;
  top: 0px;
- left: 600px;
+ 
 }
 
 .pota {
  width: 25%;
- height: 50%;
+ height: 25%;
  position: relative;
  box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
  padding: 10px;
  background: gold;
- left:190px;
+ bottom: px;
+
 }
 
 .potato {
  width: 25%;
- height: 50%;
+ height: 25%;
  position: relative;
  box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
  padding: 10px;
  background: gold;
  margin: auto;
- right: 200px;
+
 }
 
 .ims {

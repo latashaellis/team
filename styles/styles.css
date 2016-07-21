@@ -1,29 +1,32 @@
 body {
  background-image: url(http://24.media.tumblr.com/tumblr_lpf3i695DC1qbvpl8o1_1280.jpg);
- background-repeat:no-repeat;
+ background-repeat: no-repeat;
  background-size: cover;
 }
-.pics
- {
- width:50%;
- height:50%;
+
+nav {
+ text-align: center;
+}
+
+.pics {
+ width: 50%;
+ height: 50%;
  position: relative;
  box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
  padding: 10px;
  background: gold;
  height: 25%;
  text-align: center;
- margin:auto;
- }
- .ps
- {
+ margin: auto;
+}
+
+.ps {
  box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
  padding: 10px;
  background: gold;
  height: 60%;
- width:20%;
- }
- 
+ width: 20%;
+}
 
 p {
  font-family: "Arial";
@@ -32,29 +35,31 @@ p {
  padding: 20px;
  border: ridge 5px black;
  margin: 50px auto 50px auto;
-background-color:black;
+ background-color: black;
 }
+
 .m {
-  font-size: 40px;
+ font-size: 40px;
  color: gold;
  position: relative;
  box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
  padding: 10px;
- background:black;
+ background: black;
  height: 25%;
  text-align: center;
  margin-bottom: 50px;
 }
-.c{
+
+.c {
  font-size: 60px;
  color: gold;
  position: relative;
  box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
  padding: 1px;
- background:black;
+ background: black;
  text-align: center;
-    
 }
+
 .a {
  font-size: 60px;
  color: black;
@@ -65,6 +70,7 @@ background-color:black;
  height: 25%;
  text-align: center;
 }
+
 .b {
  font-size: 40px;
  color: black;
@@ -73,7 +79,6 @@ background-color:black;
  padding: 1px;
  background-color: gold;
 }
-    
 
 button {
  background-color: black;
@@ -89,33 +94,31 @@ button {
 }
 
 body {
-    color: White;
+ color: White;
 }
 
 h1 {
-    color:gold;
-    text-align:center;
+ color: gold;
+ text-align: center;
 }
 
-.mission
-{
+.mission {
  background-color: black;
  color: gold;
  width: 40%;
- 
 }
-.mp
-{
+
+.mp {
  background-color: black;
  color: gold;
  width: 50%;
- height:75%;
- margin-left:250px;
- padding:200px;
+ height: 75%;
+ margin-left: 250px;
+ padding: 200px;
 }
-.images
- {
-  width:50%;
+
+.images {
+ width:50%;
  height:70%;
  position: relative;
  box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
@@ -123,9 +126,9 @@ h1 {
  background: gold;
  text-align: center;
  margin:auto;
- }
- .e
- {
+}
+
+.e {
  font-size: 40px;
  color: gold;
  position: relative;
@@ -134,24 +137,64 @@ h1 {
  background-color: black;
 }
 
-
-
-ol 
-{
+ol {
 font-family: "Arial";
 font-size: 30px;
 color: gold;
-padding: 20px;
 border: ridge 5px black;
 margin: 50px auto 50px auto;
 background-color:black;
 }
+
 .ubisoft{
-    position: absolute;
-    bottom: -929;
-    left: 700;
-    width: 1250px;
+ position: absolute;
+ bottom: -920;
+ left: 769;
+ width: 1100px;
+}
+
+.pot {
+ width: 25%;
+ height: 50%;
+ position: relative;
+ box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+ padding: 10px;
+ background: gold;
+ margin: auto;
+ top: 0px;
+ left: 600px;
+}
+
+.pota {
+ width: 25%;
+ height: 50%;
+ position: relative;
+ box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+ padding: 10px;
+ background: gold;
+ left:190px;
+}
+
+.potato {
+ width: 25%;
+ height: 50%;
+ position: relative;
+ box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+ padding: 10px;
+ background: gold;
+ margin: auto;
+ right: 200px;
+}
+
+.ims {
+ width:40%;
+ height:60%;
+ position: relative;
+ box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+ padding: 10px;
+ background: gold;
+ text-align: center;
+ margin:auto;
 }
 
  
-}
